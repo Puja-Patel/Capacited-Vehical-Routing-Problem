@@ -13,5 +13,5 @@ variants of sweep that are considered in this paper.
 
 
 #OBJECTIVE: 
- To study and implement Sweep Heuristic to solve the CVRP.
- To minimize the number of vehicles used and the distance travelled by it in each subset
+To study and implement Sweep Heuristic to solve the CVRP.
+To minimize the number of vehicles used and the distance travelled by it in each subset
